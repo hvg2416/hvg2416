@@ -47,3 +47,4 @@
             <img src="https://github-readme-stats.vercel.app/api?username=hvg2416&show_icons=true&locale=en"
                 alt="hvg2416" width="400" />
         </p>
+    <img src="https://activity-graph.herokuapp.com/graph?username=hvg2416&bg_color=000000&color=FFFFFF&line=FFFFFF&point=00FF00">
