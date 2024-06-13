@@ -1,8 +1,4 @@
 <div>
-    <p align="center">
-        <img src="https://user-images.githubusercontent.com/49445823/120198534-d3f97000-c23f-11eb-90d5-ff43fc26582d.png" height="400" />
-    </p>
-    <hr />
     <h1>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />, I'm Harsh Vardhan Gautam</h1>
     <h3>Aspiring Software Engineer</h3>
     <p>
